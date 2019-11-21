@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_s2.mk
+    $(LOCAL_DIR)/magma_s2.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_s2-user \
-    arrow_s2-userdebug \
-    arrow_s2-eng
+    magma_s2-user \
+    magma_s2-userdebug \
+    magma_s2-eng
